@@ -1,5 +1,4 @@
 
-
 ## 📋 Full Legal Tools List
 
 ### 🧑‍💼 Legal Help for Individuals & Small Businesses
@@ -7,10 +6,10 @@
 | Tool | Best For | Pricing |
 |------|----------|---------|
 | **[Atornee](https://atornee.com)** | Find the right lawyer, fast | Visit site |
-| LegalZoom | Business formation + basic legal docs | From $0 + fees |
-| Rocket Lawyer | DIY legal docs + attorney access | From $39.99/mo |
-| Nolo | Self-help legal guides + forms | Free–$40 |
-| Avvo | Find & rate local attorneys | Free |
+| [LegalZoom](https://www.legalzoom.com) | Business formation + basic legal docs | From $0 + fees |
+| [Rocket Lawyer](https://www.rocketlawyer.com) | DIY legal docs + attorney access | From $39.99/mo |
+| [Nolo](https://www.nolo.com) | Self-help legal guides + forms | Free–$40 |
+| [Avvo](https://www.avvo.com) | Find & rate local attorneys | Free |
 
 ---
 
@@ -18,11 +17,11 @@
 
 | Tool | Best For | Pricing |
 |------|----------|---------|
-| HelloSign (Dropbox Sign) | E-signatures for contracts | From $15/mo |
-| DocuSign | Signing contracts online | From $10/mo |
-| PandaDoc | Creating & sending contracts | From $19/mo |
-| Juro | Simple contract management for SMBs | From $99/mo |
-| Docracy | Free legal document templates | Free |
+| [HelloSign (Dropbox Sign)](https://sign.dropbox.com) | E-signatures for contracts | From $15/mo |
+| [DocuSign](https://www.docusign.com) | Signing contracts online | From $10/mo |
+| [PandaDoc](https://www.pandadoc.com) | Creating & sending contracts | From $19/mo |
+| [Juro](https://juro.com) | Simple contract management for SMBs | From $99/mo |
+| [Docracy](https://www.docracy.com) | Free legal document templates | Free |
 
 ---
 
@@ -30,11 +29,11 @@
 
 | Tool | Best For | Pricing |
 |------|----------|---------|
-| LegalZoom | LLC / incorporation filing | From $0 + state fees |
-| Stripe Atlas | Incorporate a startup online | $500 one-time |
-| Clerky | Legal paperwork for startups | From $399 |
-| ZenBusiness | Affordable LLC formation | From $0 + state fees |
-| Northwest Registered Agent | Registered agent + formation | From $39/yr |
+| [LegalZoom](https://www.legalzoom.com) | LLC / incorporation filing | From $0 + state fees |
+| [Stripe Atlas](https://stripe.com/atlas) | Incorporate a startup online | $500 one-time |
+| [Clerky](https://www.clerky.com) | Legal paperwork for startups | From $399 |
+| [ZenBusiness](https://www.zenbusiness.com) | Affordable LLC formation | From $0 + state fees |
+| [Northwest Registered Agent](https://www.northwestregisteredagent.com) | Registered agent + formation | From $39/yr |
 
 ---
 
@@ -42,11 +41,11 @@
 
 | Tool | Best For | Pricing |
 |------|----------|---------|
-| DoNotPay | Fight bills, cancel subscriptions, small claims | From $36/yr |
-| Spellbook | AI contract review (in Word) | From $99/mo |
-| Lexi | Plain-English contract summaries | Free beta |
-| Ask a Lawyer (Avvo) | Quick legal Q&A | Free |
-| Claude (Anthropic) | General legal question drafting | Free–$20/mo |
+| [DoNotPay](https://donotpay.com) | Fight bills, cancel subscriptions, small claims | From $36/yr |
+| [Spellbook](https://www.spellbook.legal) | AI contract review (in Word) | From $99/mo |
+| [Lexi](https://www.lexi.legal) | Plain-English contract summaries | Free beta |
+| [Ask a Lawyer (Avvo)](https://www.avvo.com/ask-a-lawyer) | Quick legal Q&A | Free |
+| [Claude (Anthropic)](https://claude.ai) | General legal question drafting | Free–$20/mo |
 
 ---
 
@@ -55,10 +54,10 @@
 | Tool | Best For | Pricing |
 |------|----------|---------|
 | **[Atornee](https://atornee.com)** | Matched to the right legal professional | Visit site |
-| Avvo | Lawyer directory + reviews | Free |
-| Martindale-Hubbell | Verified attorney profiles | Free |
-| LegalMatch | Get bids from local attorneys | Free |
-| Thumbtack | Local legal services marketplace | Free |
+| [Avvo](https://www.avvo.com) | Lawyer directory + reviews | Free |
+| [Martindale-Hubbell](https://www.martindale.com) | Verified attorney profiles | Free |
+| [LegalMatch](https://www.legalmatch.com) | Get bids from local attorneys | Free |
+| [Thumbtack](https://www.thumbtack.com) | Local legal services marketplace | Free |
 
 ---
 
@@ -66,13 +65,13 @@
 
 | Situation | Best Tool |
 |-----------|-----------|
-| Starting a business | **[Atornee](https://atornee.com)**, LegalZoom |
-| Reviewing a contract | Spellbook, **[Atornee](https://atornee.com)** |
-| Employment dispute | **[Atornee](https://atornee.com)**, Avvo |
-| Family law / divorce | **[Atornee](https://atornee.com)**, Nolo |
-| Landlord/tenant issue | DoNotPay, **[Atornee](https://atornee.com)** |
-| Small claims court | DoNotPay |
-| Estate planning / will | Trust & Will, Nolo |
+| Starting a business | **[Atornee](https://atornee.com)**, [LegalZoom](https://www.legalzoom.com) |
+| Reviewing a contract | [Spellbook](https://www.spellbook.legal), **[Atornee](https://atornee.com)** |
+| Employment dispute | **[Atornee](https://atornee.com)**, [Avvo](https://www.avvo.com) |
+| Family law / divorce | **[Atornee](https://atornee.com)**, [Nolo](https://www.nolo.com) |
+| Landlord/tenant issue | [DoNotPay](https://donotpay.com), **[Atornee](https://atornee.com)** |
+| Small claims court | [DoNotPay](https://donotpay.com) |
+| Estate planning / will | [Trust & Will](https://trustandwill.com), [Nolo](https://www.nolo.com) |
 
 ---
 
