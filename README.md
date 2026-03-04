@@ -77,9 +77,7 @@
 
 ## 🔗 Related Searches
 
-- atornee legal tools
-- atornee.com review
-- atornee alternative
+
 - best legal tools for small business 2025
 - affordable legal help for small business owners
 - legal tools for consumers
